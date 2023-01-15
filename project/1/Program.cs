@@ -28,3 +28,6 @@ void PrintMass(string[] array)
     }
     Console.WriteLine();
 }
+
+SecondMass(array1, array2);
+PrintMass(array2);
