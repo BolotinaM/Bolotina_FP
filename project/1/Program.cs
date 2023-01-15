@@ -4,7 +4,7 @@
 // либо задать на старте выполнения алгоритма. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-string[] array1 = new string[5] {"cat", "1111", "fish", "20", "zeliboba", "-11"};
+string[] array1 = new string[6] {"cat", "1111", "fish", "20", "zeliboba", "-11"};
 string[] array2 = new string[array1.Length];
 
 void SecondMass(string[] array1, string[] array2)
